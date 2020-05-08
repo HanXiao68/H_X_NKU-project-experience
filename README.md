@@ -31,3 +31,22 @@
 <img src="https://github.com/HanXiao68/upstream/blob/master/image/%E7%AC%AC%E4%B8%89%E5%B1%8A%E6%99%BA%E8%83%BD%E9%A9%BE%E9%A9%B6%E6%8C%91%E6%88%98%E8%B5%9B/119bf52fb407373bba67e7d9a15d8d4.jpg " width="575"/>
 
 <img src="https://github.com/HanXiao68/upstream/blob/master/image/%E7%AC%AC%E4%B8%89%E5%B1%8A%E6%99%BA%E8%83%BD%E9%A9%BE%E9%A9%B6%E6%8C%91%E6%88%98%E8%B5%9B/a2feb732d0c3ffd02b4466697bef570.jpg " width="575"/>
+
+客户端:
+1\建立代码
+1.1初始化ros结点
+1.2创建client实例
+1.3发布服务请求数据
+1.4等待server处理之后的结果
+2设置编译规则
+3catkin_make执行
+
+服务端:
+1代码实现
+1.1\初始化ros结点
+1.2\创建server实例
+1.3\循环等待服务请求,进入回调函数
+1.4\处理回调函数,返回应答数据
+2设置编译规则
+3运行
+
