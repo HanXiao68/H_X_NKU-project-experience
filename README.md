@@ -6,6 +6,8 @@
     
 <img src="https://github.com/HanXiao68/upstream/blob/master/image/%E5%A4%9A%E4%BC%A0%E6%84%9F%E5%99%A8%E4%BB%BF%E7%9C%9F.jpg" width="575"/>
 
+![image](https://github.com/HanXiao68/H_X-NKU-project-experience/tree/master/image/301.gif)
+
 <img src="https://github.com/HanXiao68/H_X-NKU-project-experience/blob/master/image/%E5%A4%9A.JPG" width="575"/>
 
 <img src="https://github.com/HanXiao68/H_X-NKU-project-experience/blob/master/image/zuobiaoxi-topological.jpg" width="575"/>
