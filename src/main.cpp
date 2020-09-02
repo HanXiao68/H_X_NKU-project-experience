@@ -264,7 +264,6 @@ int main(int argc, char **argv)
     第一个参数是订阅话题的名称；
     第二个参数是订阅队列的长度；（如果收到的消息都没来得及处理，那么新消息入队，旧消息就会出队）；
     第三个参数是回调函数的指针，指向回调函数来处理接收到的消息！
-    第四个参数：似乎与延迟有关系，暂时不关心。（该成员函数有13重载）
     */
     ros::Subscriber sub_imu = n.subscribe(IMU_TOPIC, 2000, imu_callback, ros::TransportHints().tcpNoDelay());
     ros::Subscriber sub_feature = n.subscribe("/feature_tracker/feature", 2000, feature_callback);
